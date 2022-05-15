@@ -1,4 +1,3 @@
-
 import './card.style.css'
 
 const Card = ({ monster }) => {
